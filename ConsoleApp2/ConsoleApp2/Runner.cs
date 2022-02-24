@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
+using System.Reflection;
 
-
-namespace ConsoleApp2
+namespace Task1
 {
     enum MarathonType { 
         Marathon,
@@ -14,8 +14,20 @@ namespace ConsoleApp2
     }
     internal class Runner
     {
+        public Runner(int id)
+        {
+            this.setId(id);
+        }
         
-        public int id { get; set; }
+        public int id { get;private set; }
+
+        public void setId(int id) {
+           
+            if(Validation.isPositive(id))
+            {
+                this.id = id;
+            }
+        }
         public string name { get; set; }
         public DateTime Date { get; set; }
 
@@ -26,6 +38,5 @@ namespace ConsoleApp2
         public MarathonType MarathonType { get; set; }
 
         public DateTime CompetitionDate { get; set; }
-
     }
 }

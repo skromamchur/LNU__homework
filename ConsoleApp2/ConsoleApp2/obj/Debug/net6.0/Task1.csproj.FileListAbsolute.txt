@@ -1,0 +1,15 @@
+C:\Users\rmamc\Source\Repos\LNU_C-_homework\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\Task1.csproj.AssemblyReference.cache
+C:\Users\rmamc\Source\Repos\LNU_C-_homework\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmamc\Source\Repos\LNU_C-_homework\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\Task1.AssemblyInfoInputs.cache
+C:\Users\rmamc\Source\Repos\LNU_C-_homework\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\Task1.AssemblyInfo.cs
+C:\Users\rmamc\Source\Repos\LNU_C-_homework\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\rmamc\Source\Repos\LNU_C-_homework\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\Task1.exe
+C:\Users\rmamc\Source\Repos\LNU_C-_homework\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\Task1.deps.json
+C:\Users\rmamc\Source\Repos\LNU_C-_homework\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\Task1.runtimeconfig.json
+C:\Users\rmamc\Source\Repos\LNU_C-_homework\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\Task1.dll
+C:\Users\rmamc\Source\Repos\LNU_C-_homework\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ref\Task1.dll
+C:\Users\rmamc\Source\Repos\LNU_C-_homework\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\Task1.pdb
+C:\Users\rmamc\Source\Repos\LNU_C-_homework\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\Task1.dll
+C:\Users\rmamc\Source\Repos\LNU_C-_homework\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ref\Task1.dll
+C:\Users\rmamc\Source\Repos\LNU_C-_homework\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\Task1.pdb
+C:\Users\rmamc\Source\Repos\LNU_C-_homework\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\Task1.genruntimeconfig.cache

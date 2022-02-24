@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rmamc\\Source\\Repos\\LNU_C-_homework\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
-      "projectName": "ConsoleApp2",
-      "projectPath": "C:\\Users\\rmamc\\Source\\Repos\\LNU_C-_homework\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+      "projectUniqueName": "C:\\Users\\rmamc\\Source\\Repos\\LNU_C-_homework\\ConsoleApp2\\ConsoleApp2\\Task1.csproj",
+      "projectName": "Task1",
+      "projectPath": "C:\\Users\\rmamc\\Source\\Repos\\LNU_C-_homework\\ConsoleApp2\\ConsoleApp2\\Task1.csproj",
       "packagesPath": "C:\\Users\\rmamc\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\rmamc\\Source\\Repos\\LNU_C-_homework\\ConsoleApp2\\ConsoleApp2\\obj\\",
       "projectStyle": "PackageReference",
